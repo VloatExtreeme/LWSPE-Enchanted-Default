@@ -1,0 +1,17 @@
+{
+	"format_version": 1,
+	"header": {
+		"description": "ENHANCED Default Of Shader, §4Youtube: RazzleDiamond",
+		"name": "§l§1LWSPE §6E§7D §f§lVERSION",
+		"uuid": "7d0a8d2f-6481-43d5-9e2c-2e9e19cca70e",
+		"version": [0, 0, 1],
+		"min_engine_version": [1, 13, 0]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "f9c80d09-9386-4e0c-8182-75bc83c9f99e",
+			"version": [0, 0, 1]
+		}
+	]
+}
