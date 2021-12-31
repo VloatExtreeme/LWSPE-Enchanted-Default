@@ -1,0 +1,21 @@
+LWSPE ENHANCED DEFAULT V1.0
+ Features:
+=============
+ -Leaves and grass with movement
+ -Colorful water with movement
+ -Improved sky
+ -Map tone
+ -Rotated sun and moon
+ -Improved stars
+=============
+Credits :
+[Tutorials]
+- KK331
+- i1_1212
+- PIODIAMOND
+[Others]
+- ME
+
+Created by razzle diamond
+YouTube : RAZZLE DIAMOND
+Instagram : @RazzleDiamond
