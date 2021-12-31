@@ -46,3 +46,5 @@ Notices :
 - When the render dragon launches the shaders it will not work
 - The normal version did not come out on mcpedl, so the normal version is on my channel
 - It taken too much for me to do these shaders, i will add more things futurely
+
+## on mcpedl : https://mcpedl.com/lwspe-enhanced-default/ ##
